@@ -78,7 +78,8 @@ cd telebot
 pip install -r requirements.txt
 ```
 
-**Remember to: **
+**Remember to:**
 
-- Use this only for education purpose only
-- Add your bot token and chat id
+> - Use this only for education purpose only
+> - Add your bot token and chat id
+
