@@ -71,3 +71,14 @@ This helps students and researchers understand how remote administration tools w
 git clone https://github.com/b1hh/telebot.git
 cd telebot
 ```
+
+### Install requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+**Remember to: **
+
+- Use this only for education purpose only
+- Add your bot token and chat id
