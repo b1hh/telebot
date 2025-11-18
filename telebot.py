@@ -16,8 +16,8 @@ import win32con, win32api
 
 
 # Declarations 
-token = "8294052417:AAG1Kw-KMc2zrRd5lV7pspJu6TxaJgl7QPQ"
-chat_id = "7578121050"
+token = "YOUR_TOKEN"
+chat_id = "YOUR_CHATID"
 
 # Help 
 help = """
